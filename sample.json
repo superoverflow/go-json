@@ -1,0 +1,24 @@
+[
+    {
+        "date": "2020-04-29 15:13:14.615",
+        "group_id": "abcd",
+        "leg": "B",
+        "currency": "GBP",
+        "amount": 681545,
+        "fee": 0,
+        "exponent": 2,
+        "description": "Exchanged to BTC",
+        "direction": "out"
+    },
+    {
+        "date": "2020-04-29 15:13:14.615",
+        "group_id": "abcd",
+        "leg": "C",
+        "currency": "BTC",
+        "amount": 100000000,
+        "fee": 0,
+        "exponent": 8,
+        "description": "Exchanged from GBP",
+        "direction": "in"
+    }
+]
